@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Preview\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (AtlasUpdater.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  AtlasInternalUpdater.cpp
+  unzip.cpp
+  zip.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1337 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  AtlasInternalUpdater.vcxproj -> C:\Users\CriShoux\source\repos\AtlasInternalUpdater\Release\AtlasInternalUpdater.exe

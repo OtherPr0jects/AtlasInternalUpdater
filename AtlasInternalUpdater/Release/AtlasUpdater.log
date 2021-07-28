@@ -1,0 +1,8 @@
+﻿  AtlasUpdater.cpp
+  unzip.cpp
+  zip.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1337 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  AtlasUpdater.vcxproj -> C:\Users\CriShoux\source\repos\AtlasUpdater\Release\AtlasUpdater.exe
